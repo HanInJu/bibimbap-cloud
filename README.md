@@ -1,27 +1,22 @@
 # Spring in Action Project
 
----
 
 > ### 소개
 > 비빔밥에 들어가는 재료를 직접 골라 주문하는 bibimbap-cloud 에 오신 것을 환영합니다!
 
-> **제공** &nbsp; Spring in Action : taco-cloud
+> ### 제공
+> Spring in Action : taco-cloud
 
-> **작성** &nbsp; Heather, Inju Han
+> ### 작성
+> Heather, Inju Han
 
-> **시작** &nbsp; 2022-01-25-TUE
+> ### 시작
+> 2022-01-25-TUE
 
 <br>
 
-### 시작하기
+## 시작하기
 
----
-
-|    |Title |Subject |Link
-|----------------|------------------------|-------------
-|Ch00|`제목`  |`주제`  |`링크`|`테스트&수정`|`해결상태`|`걸린 시간`
-|Ch01|            |     |
-|Ch02|||
 
 |  |Notion|Title|Subject|Start Date|
 |--|------|-----|-------|----------|
